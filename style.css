@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* style.css */
+
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+main {
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: rgb(193, 219, 248);
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #2c3e50;
+}
+
+p {
+    margin: 5px 0;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.section-title {
+    border-bottom: 2px solid #3498db;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.section-title h2 {
+    font-size: 1.8rem;
+    color: #34495e;
+}
+
+.category {
+    margin-bottom: 20px;
+}
+
+.category h3 {
+    color: #2980b9;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+}
+
+.skills-list, .projects-list, ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills-list li, .projects-list li, ul li {
+    background: #ecf0f1;
+    margin-bottom: 8px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.education-item, .experience-item {
+    margin-bottom: 20px;
+}
+
+.experience-item
