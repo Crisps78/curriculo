@@ -87,8 +87,14 @@ a:hover {
 }
 
 @media( max-width: 600px ) {
-    header h1, p {
-        font-size: 0.9rem;
+    header p {
+        font-size: 0.6rem;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    header h1 {
+        font-size: 1.1rem;
     }
 }
    
