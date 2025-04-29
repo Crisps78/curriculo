@@ -86,4 +86,10 @@ a:hover {
     margin-bottom: 20px;
 }
 
-.experience-item
+@media( max-width: 600px ) {
+    header h1{
+        font-size: 1.5rem;
+    }
+}
+   
+
