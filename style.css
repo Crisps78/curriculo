@@ -86,7 +86,7 @@ a:hover {
     margin-bottom: 20px;
 }
 
-@media( min-width: 320px ) {
+@media( max-width: 600px ) {
     header p {
         font-size: 1rem;
        
