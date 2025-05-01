@@ -18,10 +18,10 @@ main {
 }
 
 .container {
-    max-width: 900px;
+    max-width: 1000px;
     margin: 40px auto;
     background: rgb(193, 219, 248);
-    padding: 40px;
+    padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
