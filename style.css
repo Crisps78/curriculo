@@ -59,6 +59,7 @@ a {
 
 a:hover {
     text-decoration: underline;
+    color: rgb(243, 74, 7);
 }
 
 .section-title {
@@ -105,5 +106,10 @@ a:hover {
 
     header p {
         font-size: 1rem;
+       
+    }
+    
+    header a {
+        color: #34495e;
     }
 }
