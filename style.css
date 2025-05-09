@@ -53,13 +53,13 @@ p {
 }
 
 a {
-    color: #3498db;
+    color: #e90c0c;
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
-    color: rgb(243, 74, 7);
+    color: rgb(100, 100, 97);
 }
 
 .section-title {
